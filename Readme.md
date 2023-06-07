@@ -11,7 +11,7 @@ The proposal of this work is to compare the speed in read/writing a midle level 
 * ClickHouse
 * InfluxDB
 * Postgresql
-* Parquet (in a S3 Minio Storage)
+* Parquet (in a S3 Minio Storage)<br>
 ToDo:
 * DuckDB with Polars
 * MongoDB
@@ -20,7 +20,7 @@ ToDo:
 
  
 Deve-se relevar:
-é uma "cold-storage" ou  "frezze-storage"? ,br>
+é uma "cold-storage" ou  "frezze-storage"? <br>
 influxdb: alta leitura e possui a vantagem da indexaçõa para posterior vizualização de dados em gráficos
 
 notas: 
