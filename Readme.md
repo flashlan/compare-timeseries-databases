@@ -1,4 +1,4 @@
-## Benchmark: ClickHouse Vs. InfluxDB Vs. Postgresql Vs. Parquet 
+## Benchmark: ClickHouse Vs. InfluxDB Vs. Postgresql Vs. Parquet Vs. MongoDB Vs. DuckDB Vs. Kdb+
 
 -----
 
