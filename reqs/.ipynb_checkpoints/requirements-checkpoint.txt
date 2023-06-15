@@ -1,9 +1,0 @@
-clickhouse_driver==0.2.6
-influxdb_client==1.36.1
-minio==7.1.14
-pandas==2.0.1
-pymongo==4.3.3
-python-dotenv==1.0.0
-pytz==2022.7
-pytz==2023.3
-SQLAlchemy==1.4.48
