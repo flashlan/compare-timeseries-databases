@@ -12,7 +12,7 @@ pip install requeriments.txt
 
 ----
 
-The proposal of this work is to compare the speed in read/writing a midle level of data (a dataset with 9 columns and 1.000.000 lines) to seven diferent databases:
+The proposal of this work is to compare the speed in read/writing a specific amount of data, in this case, a dataset with 9 columns and 1.000.000 lines) calculating medium ingestion time betwenn seven diferent databases:
 * ClickHouse
 * InfluxDB
 * Postgresql
