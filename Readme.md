@@ -1,14 +1,16 @@
-## Benchmark: ClickHouse Vs. InfluxDB Vs. Postgresql Vs. Parquet Vs. MongoDB Vs. DuckDB Vs. Kdb+
+## Benchmark Fastest Timeseries alternatives: ClickHouse Vs. InfluxDB Vs. Postgresql Vs. Parquet  Vs. MongoDB Vs. DuckDB Vs Kdb+
 
 -----
 
 #### How to use:
+* Run:
+```
+mkdir data
+pip install requirements.txt
+```
 * Rename the file "properties-model.ini" to "properties.ini"
 * Fill with your own credentials
 
-```
-pip install requeriments.txt
-```
 
 ----
 
