@@ -23,4 +23,3 @@ The proposal of this work is to compare the speed in read/writing a specific amo
 * MongoDB
 * Kdb+
 
-
